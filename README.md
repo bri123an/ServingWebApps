@@ -60,9 +60,9 @@ sudo apt install apache2
 
 sudo apt install mysql-server
 
-sudo snap install node --classic
+sudo snap install --classic node
 
-sudo snap install certbot --classic
+sudo snap install --classic certbot
 
 sudo apt install pm2
 ```
