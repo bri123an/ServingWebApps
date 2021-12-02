@@ -263,7 +263,7 @@ Follow the prompt to generate the certificates
 
 You will need to make the following changes to your VirtualHost config file. Your configuration will look something like:
 
-```sh
+```
 <IfModule mod_ssl.c>
 <VirtualHost *:443>
 
